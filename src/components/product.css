@@ -1,0 +1,19 @@
+
+
+.product h3{
+    color: slateblue;
+}
+
+.product{
+    border: 2px solid silver;
+    display: inline-block;
+    border-radius: 5px;
+    padding:  5px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px silver;
+
+}
+
+.product label{
+    display: block;
+}
